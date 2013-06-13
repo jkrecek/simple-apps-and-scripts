@@ -1,0 +1,4 @@
+rm -rf bin
+cd objdir
+make clean
+make install > compile.log

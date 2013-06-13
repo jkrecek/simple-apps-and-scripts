@@ -1,0 +1,140 @@
+body
+{
+    /*background: #468;*/
+}
+
+a
+{
+    color: #663333;
+    font-weight: bold;
+}
+
+img
+{
+    width: 32px;
+    height: 32px;
+}
+
+.vyhledavani
+{
+    text-align: center;
+    border: 2px solid #333;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.error
+{
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    color: #632a39;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.banner
+{
+    display: block;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 525px;
+    height: 239px;
+    text-align: center;
+}
+
+.base_table
+{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.base_table th, .base_table td
+{
+    vertical-align: top;
+}
+.spell_table
+{
+  padding: 0;
+  border-collapse: collapse;
+  border: 2px solid #333;
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  color: #000;
+  background: #bcd0e4 top left repeat-x;
+}
+
+.spell_table td
+{
+  border: 1px dotted #666;
+  padding: 0.5em;
+  text-align: left;
+  color: #632a39;
+  width: 200px;
+}
+
+.search_table
+{
+  padding: 0;
+  border-collapse: collapse;
+  border: 2px solid #333;
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  color: #000;
+  background: #bcd0e4 top left repeat-x;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search_table td
+{
+  border: 1px dotted #666;
+  padding: 0.5em;
+  text-align: left;
+  color: #632a39;
+}
+
+.effect_table
+{
+  padding: 0;
+  border-collapse: collapse;
+  border: 2px solid #333;
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  color: #000;
+  background: #bcd0e4 top left repeat-x;
+}
+
+.effect_table td
+{
+  border: 1px dotted #666;
+  padding: 0.5em;
+  text-align: left;
+  color: #632a39;
+  width: 100px;
+}
+
+.spell_table th, .effect_table th
+{
+  border: 1.5px solid #666;
+  padding: 0.5em;
+  text-align: left;
+  color: #632a39;
+}
+
+.buttons
+{
+    border: 1px solid #000;
+    background: #fff;
+    padding: 2px 8px;
+    margin: 2px;
+}
+.buttons:hover
+{
+    border: 1px solid #000;
+    background-color: #000;
+    color: #fff;
+    padding: 2px 8px;
+    margin: 2px;
+}
